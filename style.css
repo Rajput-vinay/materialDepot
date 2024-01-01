@@ -1,0 +1,97 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    border: 20px;
+   
+}
+
+.logo{
+    margin-top: .5rem;
+    padding-left:2rem ;
+}
+
+.input{
+   margin-top: 1.5rem;
+  
+}
+.input-tab{
+    padding: .5rem;
+    background-color: rgb(206, 199, 199);
+    border-radius: 2rem;
+}
+.store{
+    margin-top: .5rem;
+
+}
+.gallery{
+    margin-top: .5rem;
+
+}
+
+.Categories{
+    margin-top: .5rem;
+}
+.btn{
+    margin-top: 1rem;
+    padding-right: 2rem;
+}
+.sign{
+    padding: 10px;
+ 
+    background-color: yellow;
+}
+
+.line{
+    width: 100%;
+   margin-top: .5rem;
+  border: 1px solid rgb(56, 55, 55);
+}
+
+.unorder{
+    display: flex;
+    list-style: none;
+    margin-left: 5rem;
+    justify-content: space-between;
+    margin-right: 8rem;
+}
+
+.secondary{
+display: flex;
+margin-left: 4rem;
+margin-right: 2rem;
+margin-top: 1rem;
+}
+.part-2{
+    margin-left: 2rem;
+}
+.img{
+    border-radius: 3%;
+}
+.img-2{
+    margin-top: .7rem;
+}
+
+.third{
+   margin-left: 40%;
+}
+
+.fourth{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: 4rem;
+    margin-right: 4rem;
+    margin-top: 2rem;
+}
+
+.para{
+    text-align: center;
+    font: bold;
+}
+
+
+
+.img:hover{
+    cursor: pointer;
+    border: 2px solid gray;
+}
